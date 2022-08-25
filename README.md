@@ -1,5 +1,5 @@
 ### Hi there 👋
-<center>![Joker](./api/joker.png)</center>
+
 <!--
 **leon000919/leon000919** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
@@ -13,4 +13,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<center>![Joker](./api/Joker.png)</center>
 [![Joker's GitHub stats](https://github-readme-stats.vercel.app/api?username=leon000919&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
