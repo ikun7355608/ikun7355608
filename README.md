@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<center>![Joker](./api/Joker.png)</center>
+![Joker](api/Joker.png)
 [![Joker's GitHub stats](https://github-readme-stats.vercel.app/api?username=leon000919&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
